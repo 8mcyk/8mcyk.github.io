@@ -20,7 +20,7 @@ const count = ref(0)
     </div>
     <button class="counter" @click="count++">Count is {{ count }}</button>
   </section>
-<!--本网站由九条诗织@651715794个人独自完成,未经授权禁止盗用-->
+/*本网站由九条诗织@651715794个人独自完成,未经授权禁止盗用*/
   <div class="ticks"></div>
 
   <section id="next-steps">
