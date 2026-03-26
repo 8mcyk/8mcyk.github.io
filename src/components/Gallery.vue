@@ -33,7 +33,7 @@
         </div>
       </div>
     </div>
-    <!--本网站由九条诗织@651715794个人独自完成,未经授权禁止盗用-->
+    
     <div v-if="lightboxOpen" class="lightbox" @click="closeLightbox">
       <div class="lightbox-content" @click.stop>
         <button class="lightbox-close" @click="closeLightbox">&times;</button>
